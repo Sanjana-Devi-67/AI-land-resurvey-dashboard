@@ -1,7 +1,7 @@
 # 🗺️ AI-Assisted Land Resurvey Intelligence Dashboard
 
 ## 📌 Problem Statement
-The Government of Andhra Pradesh is conducting a large-scale land resurvey initiative using modern geospatial technologies such as drones, GNSS, and CORS networks.  
+The Government is conducting a large-scale land resurvey initiative using modern geospatial technologies such as drones, GNSS, and CORS networks.  
 Manual parcel verification and conflict resolution lead to delays, inconsistencies, and disputes.
 
 This project demonstrates an **AI-assisted decision support system** that automatically identifies land parcel discrepancies, prioritizes high-risk cases, and supports faster, transparent resurvey operations.
